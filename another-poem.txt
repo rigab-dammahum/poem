@@ -1,5 +1,6 @@
 me,ji,ku,hi,bi,ni,u
 
+cokelat
 merah
 jingga
 kuning
