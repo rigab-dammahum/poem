@@ -6,9 +6,14 @@ jingga
 kuning
 hijau
 biru
+merah tua
+krem
+putih
 nila
 ungu
 merah muda
 hitam
+hijau muda
+biru muda
 
 these are the colors of the rainbow in indonesian.
