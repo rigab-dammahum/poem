@@ -1,0 +1,11 @@
+me,ji,ku,hi,bi,ni,u
+
+merah
+jingga
+kuning
+hijau
+biru
+nila
+ungu
+
+these are the colors of rainbow in indonesian.
