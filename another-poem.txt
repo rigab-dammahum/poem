@@ -19,3 +19,5 @@ biru muda
 these are the colors of the rainbow in indonesian.
 
 from ahhahah@gmail.com
+changes from kkowalczyk@gmail.com, im trying to guess where does config user.name and user.email
+ play a part in commits
