@@ -7,5 +7,7 @@ hijau
 biru
 nila
 ungu
+merah muda
+hitam
 
 these are the colors of the rainbow in indonesian.
